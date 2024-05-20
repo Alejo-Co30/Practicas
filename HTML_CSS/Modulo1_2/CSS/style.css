@@ -1,0 +1,21 @@
+.encabezado{
+    text-align: center;
+}
+
+.pie{
+    text-align: center;
+}
+
+.fondo{
+    width: 100%;
+    height: 200px;
+    margin: auto;
+    border-style: solid;
+    background-color: white;
+    background-image: url('/Img/Logo.jfif');
+    background-repeat: no-repeat;
+}
+
+header, body, footer, .encabezado,.pie, hr{
+    border-style: solid;
+}
